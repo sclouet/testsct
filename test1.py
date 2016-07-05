@@ -20,7 +20,7 @@ plt.close('all')
 # Just a figure and one subplot
 f, ax = plt.subplots()
 ax.plot(x, y)
-ax.set_title('Simple plot')
+ax.set_title('une petite modif Simple plot')
 
 # Two subplots, the axes array is 1-d
 f, axarr = plt.subplots(2, sharex=True)
