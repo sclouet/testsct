@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 """Examples illustrating the use of plt.subplots().
 
 This function creates a figure and a grid of subplots with a single call, while
